@@ -64,3 +64,23 @@ Sinta-se livre para forkar, contribuir ou adaptar pro seu estilo. O importante �
 
 Feito com dedicação por um estudante curioso 💻
 
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
