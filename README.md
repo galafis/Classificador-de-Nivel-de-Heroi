@@ -1,13 +1,14 @@
 # Classificador de Nível de Herói 🦸‍♂️🧠
 
-![Hero Banner](assets/hero_banner.jpg)
-
 ## Diagrama de Arquitetura
 
 ![Diagrama de Arquitetura](assets/architecture_diagram.png)
 
 
 ## 🇧🇷 Português
+
+![Hero Banner](assets/hero_banner.jpg)
+
 
 ### Sobre o Projeto
 
@@ -79,6 +80,9 @@ Sinta-se à vontade para fazer um fork do projeto, contribuir com melhorias ou a
 ---
 
 ## 🇬🇧 English
+
+![Hero Banner](assets/hero_banner.jpg)
+
 
 ### About the Project
 
